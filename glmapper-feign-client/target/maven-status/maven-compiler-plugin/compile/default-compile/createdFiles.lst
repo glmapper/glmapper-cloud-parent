@@ -1,0 +1,3 @@
+com/glmapper/bridge/boot/FeignClientApplication.class
+com/glmapper/bridge/boot/controller/FeignController.class
+com/glmapper/bridge/boot/service/HelloGlmapperService.class

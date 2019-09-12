@@ -8,6 +8,7 @@
         <module>glmapper-eureka-provider</module>
         <module>glmapper-feign-client</module>
         <module>glmapper-cloud-gateway</module>
+        <module>glmapper-ribbon-client</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
